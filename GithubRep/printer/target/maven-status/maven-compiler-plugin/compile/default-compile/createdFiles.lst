@@ -1,0 +1,5 @@
+com\ufgov\prop\Props.class
+test\Printer.class
+com\ufgov\util\parseXMLUtil.class
+com\ufgov\vo\Product.class
+com\ufgov\vo\Config.class
